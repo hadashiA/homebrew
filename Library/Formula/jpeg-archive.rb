@@ -2,9 +2,8 @@ require 'formula'
 
 class JpegArchive < Formula
   homepage 'https://github.com/danielgtaylor/jpeg-archive'
-  url 'https://github.com/f-kubotar/jpeg-archive/archive/1.0.1s.tar.gz'
-  version '1.0.1'
-  sha1 '45d36e74ae795d25e8cbf20d2ccd3ae17d4c6f7b'
+  url 'https://github.com/f-kubotar/jpeg-archive/archive/1.0.1.1.tar.gz'
+  sha1 'ccdf3d0ccbafbd197bc09122f8cc7f35a80e7304'
 
   depends_on 'jpeg-turbo'
 
